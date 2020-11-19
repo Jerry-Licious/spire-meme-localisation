@@ -1,0 +1,1503 @@
+{
+  "Anchor": {
+    "NAME": "Anchor",
+    "FLAVOR": "Holding this miniature trinket, you feel heavier and more stable.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b",
+      " #yBlock."
+    ]
+  },
+  "Ancient Tea Set": {
+    "NAME": "Brighter Lantern",
+    "FLAVOR": "The key to a refreshing night's rest.",
+    "DESCRIPTIONS": [
+      "Whenever you enter a Rest Site, start the next combat with two Lanterns."
+    ]
+  },
+  "Art of War": {
+    "NAME": "Art of War",
+    "FLAVOR": "This ancient manuscript contains wisdom from a past age.",
+    "DESCRIPTIONS": [
+      "All warfare is based on deception. Hense, when we are able to be a boss relic, we must seem common.",
+      ""
+    ]
+  },
+  "Astrolabe": {
+    "NAME": "Astrolabe",
+    "FLAVOR": "A tool to glean invaluable knowledge from the stars.",
+    "DESCRIPTIONS": [
+      "Upon pickup, #yTransform #b3 cards, then #yUpgrade them.",
+      "Choose 3 cards for "
+    ]
+  },
+  "Bag of Marbles": {
+    "NAME": "Bag of Marbles",
+    "FLAVOR": "A once popular toy in the City. Useful for throwing enemies off balance.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, apply #b",
+      " #yVulnerable to ALL enemies."
+    ]
+  },
+  "Bag of Preparation": {
+    "NAME": "Ring of the Snake.",
+    "FLAVOR": "Oversized adventurer's pack. Has many pockets and straps.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, draw #b",
+      " additional cards."
+    ]
+  },
+  "Bird Faced Urn": {
+    "NAME": "Urn-Faced Bird",
+    "FLAVOR": "This urn shows the crow god Mazaleth looking mischievous.",
+    "DESCRIPTIONS": [
+      "If you have a Creative AI and patience, at the end of each combat, heal for all of your HP. (Heal #b",
+      " on power card play)"
+    ]
+  },
+  "Black Blood": {
+    "NAME": "Black Blood",
+    "FLAVOR": "The rage grows darker.",
+    "DESCRIPTIONS": [
+      "Replaces #rBurning #rBlood. At the end of combat, heal #b",
+      " HP."
+    ]
+  },
+  "Black Star": {
+    "NAME": "Black Star",
+    "FLAVOR": "Originally discovered in the town of the serpent, beside a solitary candle.",
+    "DESCRIPTIONS": [
+      "Upon pickup, take 30 damage next floor and 22 damage from the forgotten altar, rest and die to the next elite. "
+    ]
+  },
+  "Blood Vial": {
+    "NAME": "Blood Vial",
+    "FLAVOR": "A vial containing the blood of a pure and elder vampire.",
+    "DESCRIPTIONS": [
+      "At least bites are now more pickable. (Heal #b",
+      " every fight )"
+    ]
+  },
+  "Bloody Idol": {
+    "NAME": "Bloody Idol",
+    "FLAVOR": "The idol now weeps a constant stream of blood.",
+    "DESCRIPTIONS": [
+      "Hey, good job taking Golden Idol Act 1. Never rested in my LIFE. (Heal #b",
+      " when obtaining gold )"
+    ]
+  },
+  "Blue Candle": {
+    "NAME": "Blue Candle",
+    "FLAVOR": "The flame ignites when shrouded in darkness.",
+    "DESCRIPTIONS": [
+      "You can now exhaust Ascender's Bane at the start of your turn at the cost of #b",
+      " HP."
+    ]
+  },
+  "Bottled Flame": {
+    "NAME": "Bottled Flame",
+    "FLAVOR": "Inside the bottle resides a flame that eternally burns.",
+    "DESCRIPTIONS": [
+      "Upon pickup, choose an #yAttack. Start each combat with this card in your hand.",
+      "Choose a card for ",
+      "Start each combat with ",
+      " in your hand."
+    ]
+  },
+  "Bottled Lightning": {
+    "NAME": "Bottled Lightning",
+    "FLAVOR": "Peering into the swirling maelstrom, you see a part of yourself staring back.",
+    "DESCRIPTIONS": [
+      "Upon pickup, choose a #ySkill. Start each combat with this card in your hand.",
+      "Choose a card for ",
+      "Start each combat with ",
+      " in your hand."
+    ]
+  },
+  "Bottled Tornado": {
+    "NAME": "Bottled Tornado",
+    "FLAVOR": "The bottle gently hums and whirs.",
+    "DESCRIPTIONS": [
+      "Upon pickup, choose a #yPower card. Start each combat with this card in your hand.",
+      "Choose a card for ",
+      "Start each combat with ",
+      " in your hand."
+    ]
+  },
+  "Bronze Scales": {
+    "NAME": "Bronze Scales",
+    "FLAVOR": "The sharp scales of the Guardian. Rearranges itself to protect its user. ",
+    "DESCRIPTIONS": [
+      "Start each combat with #b",
+      " #yThorns."
+    ]
+  },
+  "Burning Blood": {
+    "NAME": "Burning Blood",
+    "FLAVOR": "Your body's own blood burns with an undying rage.",
+    "DESCRIPTIONS": [
+      "At the end of combat, heal #b",
+      " HP."
+    ]
+  },
+  "Cables": {
+    "NAME": "Gold-Plated Cables",
+    "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Your rightmost Orb triggers its passive an additional time."
+    ]
+  },
+  "Calipers": {
+    "NAME": "Calipers",
+    "FLAVOR": "\"Mechanical precision leads to greatness\" - The Architect",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose #b",
+      " #yBlock rather than all of your #yBlock."
+    ]
+  },
+  "Calling Bell": {
+    "NAME": "Budget Black Star",
+    "FLAVOR": "This dark iron bell rang 3 times when you found it, but now stays silent.",
+    "DESCRIPTIONS": [
+      "Upon pickup, obtain a unique #rCurse and #b3 relics.",
+      "The Bell Tolls...",
+      "Skip Rewards",
+      "Close"
+    ]
+  },
+  "Cauldron": {
+    "NAME": "Cauldron",
+    "FLAVOR": "The Merchant is actually a rather skilled potion brewer. Buy 4 get 1 free.",
+    "DESCRIPTIONS": [
+      "Upon pickup, brews #b5 random potions.",
+      "Blup blip bloop...!"
+    ]
+  },
+  "Centennial Puzzle": {
+    "NAME": "Centennial Puzzle",
+    "FLAVOR": "Upon solving the puzzle, you feel a powerful warmth in your chest.",
+    "DESCRIPTIONS": [
+      "The first time you lose HP each combat, draw #b",
+      " cards."
+    ]
+  },
+  "Chameleon Ring": {
+    "NAME": "Chameleon Ring",
+    "FLAVOR": "Deprecated",
+    "DESCRIPTIONS": [
+      "You can now #yBrew at Rest Sites."
+    ]
+  },
+  "Champion Belt": {
+    "NAME": "Champion Belt",
+    "FLAVOR": "Only the greatest may wear this belt.",
+    "DESCRIPTIONS": [
+      "It's not Uppercut or Shockwave but at least you can feel some comfort without having to pick up this clothesline. ( #b",
+      " #yWeak when applying #yVulnerable )"
+    ]
+  },
+  "Charon's Ashes": {
+    "NAME": "Charon's Ashes",
+    "FLAVOR": "Charon was said to be the god of rebirth, eternally dying and reviving in a burst of flame.",
+    "DESCRIPTIONS": [
+      "Whenever you #yExhaust a card, deal #b",
+      " damage to ALL enemies."
+    ]
+  },
+  "Chemical X": {
+    "NAME": "Chemical X",
+    "FLAVOR": "WARNING: Do not combine with sugar, spice, and everything nice.",
+    "DESCRIPTIONS": [
+      "Your Expungers now deal 18 additional damage. ( Increase X-cost effect by #b",
+      " )"
+    ]
+  },
+  "Circlet": {
+    "NAME": "Circlet",
+    "FLAVOR": "You ran out of relics to find. Impressive!",
+    "DESCRIPTIONS": [
+      "Collect as many as you can."
+    ]
+  },
+  "Cracked Core": {
+    "NAME": "Cracked Core",
+    "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel #b1 #yLightning."
+    ]
+  },
+  "FrozenCore": {
+    "NAME": "The Frost Orb Source That You Weren't Expecting",
+    "FLAVOR": "The crack in your core has been filled with a pulsating cold energy.",
+    "DESCRIPTIONS": [
+      "Replaces #bCracked #bCore. If you end your turn without playing a glacier, #yChannel #b1 #yFrost."
+    ]
+  },
+  "Cursed Key": {
+    "NAME": "Cursed Key",
+    "FLAVOR": "You can feel the malicious energy emanating from the key. Power comes at a price.",
+    "DESCRIPTIONS": [
+      "Upon pickup, remind yourself to not open non-boss chests and then forget about it. Whenever you click on a non-boss chest, become #yDisappointed in yourself.",
+      ""
+    ]
+  },
+  "Darkstone Periapt": {
+    "NAME": "Darkstone Periapt",
+    "FLAVOR": "The stone draws power from dark energy, converting it into vitality for the wearer.",
+    "DESCRIPTIONS": [
+      "Whenever you get an opportunity to obtain a #rCurse, think for 5 more minutes and not take it. + #b"
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Free Defragment",
+    "FLAVOR": "This disk contains precious data on birds and snakes.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b",
+      " #yFocus."
+    ]
+  },
+  "Dead Branch": {
+    "NAME": "Dead Branch",
+    "FLAVOR": "The branch of a tree from a forgotten era.",
+    "DESCRIPTIONS": [
+      "Where's my corruption?"
+    ]
+  },
+  "Derp Rock": {
+    "NAME": "Derp Rock",
+    "FLAVOR": "Placeholder",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #b",
+      " Charge. NL (Cannot be removed or transformed.)"
+    ]
+  },
+  "Discerning Monocle": {
+    "NAME": "Discerning Monocle",
+    "FLAVOR": "A very dapper looking monocle indeed.",
+    "DESCRIPTIONS": [
+      "Merchant prices are reduced by #b20%"
+    ]
+  },
+  "Dodecahedron": {
+    "NAME": "DEPRECATED Runic Dodecahedron",
+    "FLAVOR": "The runes are indecipherable.",
+    "DESCRIPTIONS": [
+      "If your HP is full, gain ",
+      "[E] at the start of your turn."
+    ]
+  },
+  "Dream Catcher": {
+    "NAME": "Dream Catcher",
+    "FLAVOR": "The northern tribes would often use dream catchers at night, believing they led to self improvement.",
+    "DESCRIPTIONS": [
+      "Pairs well with our Coffee Dripper back there."
+    ]
+  },
+  "Du-Vu Doll": {
+    "NAME": "Vajra",
+    "FLAVOR": "A doll devised to gain strength from malicious energy.",
+    "DESCRIPTIONS": [
+      "For each #rCurse in your deck, start each combat with #b",
+      " #yStrength.",
+      " You have no #rCurses.",
+      " You have #b",
+      " #rCurses."
+    ]
+  },
+  "Ectoplasm": {
+    "NAME": "Ectoplasm",
+    "FLAVOR": "This blob of slime and energy seems to pulse with life.",
+    "DESCRIPTIONS": [
+      "Upon pickup, get mugged next floor and go into a shop with 4 gold.",
+      ""
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "Emotion Chip",
+    "FLAVOR": "...<3...?",
+    "DESCRIPTIONS": [
+      "┻━┻ ︵ヽ(`▭´)ﾉ︵﻿ ┻━┻"
+    ]
+  },
+  "Enchiridion": {
+    "NAME": "Enchiridion",
+    "FLAVOR": "The legendary journal of an ancient lich.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, add a random irrelevant #yPower card into your hand, but at least it's free and maybe triggers your Mummified Hand. "
+    ]
+  },
+  "Eternal Feather": {
+    "NAME": "Eternal Feather",
+    "FLAVOR": "This feather appears to be completely indestructible. What bird does this possibly come from?",
+    "DESCRIPTIONS": [
+      "Never rested in my LIFE ( #b",
+      " cards, #b",
+      " Heal in rest sites )"
+    ]
+  },
+  "Frozen Egg 2": {
+    "NAME": "Frozen Egg",
+    "FLAVOR": "The egg lies inert and frozen, never to hatch.",
+    "DESCRIPTIONS": [
+      "Whenever you add a #yPower card into your deck, #yUpgrade it."
+    ]
+  },
+  "Frozen Eye": {
+    "NAME": "Frozen Eye",
+    "FLAVOR": "Staring into the eye, you see a glimpse of your future.",
+    "DESCRIPTIONS": [
+      "Upon pickup, remind yourself to view your draw pile and forget about it 3 floors later. When flashing your draw pile before you, you now look more intelligent. "
+    ]
+  },
+  "Gambling Chip": {
+    "NAME": "Gambling Chip",
+    "FLAVOR": "You can see a small inscription on one side. It reads: \"Bear's Lucky Chip!\"",
+    "DESCRIPTIONS": [
+      "At the start of each combat, discard any number of cards, then draw that many cards."
+    ]
+  },
+  "Ginger": {
+    "NAME": "Ginger",
+    "FLAVOR": "A potent tool in many tonics.",
+    "DESCRIPTIONS": [
+      "You can no longer become #yWeakened."
+    ]
+  },
+  "Girya": {
+    "NAME": "Heavy Rock",
+    "FLAVOR": "This Girya is unfathomably heavy. You could train with this to get significantly stronger.",
+    "DESCRIPTIONS": [
+      "You can now gain #yStrength at Rest Sites (up to 3 times) and delay your Wraith Form upgrade."
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "Golden Idol",
+    "FLAVOR": "Made of solid gold, you feel richer just holding it.",
+    "DESCRIPTIONS": [
+      "*forgotten altar flashbacks*"
+    ]
+  },
+  "Gremlin Horn": {
+    "NAME": "Gremlin Horn",
+    "FLAVOR": "\"Gremlin Nobs are capable of growing until the day they die. Remarkable.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Whenever an enemy dies, gain ",
+      "[E] and draw #b1 card."
+    ]
+  },
+  "Happy Flower": {
+    "NAME": "Happy Flower",
+    "FLAVOR": "This unceasingly joyous plant is a popular novelty item among nobles.",
+    "DESCRIPTIONS": [
+      "Every #b",
+      " turns, gain [E] ."
+    ]
+  },
+  "Ice Cream": {
+    "NAME": "Ice Cream",
+    "FLAVOR": "\"Delicious!\"",
+    "DESCRIPTIONS": [
+      "You can now conjure blade for 25. "
+    ]
+  },
+  "Inserter": {
+    "NAME": "S C A L I N G",
+    "FLAVOR": "Push. Pull. Stack. Repeat.",
+    "DESCRIPTIONS": [
+      "Where's my consume?"
+    ]
+  },
+  "Juzu Bracelet": {
+    "NAME": "Juzu Bracelet",
+    "FLAVOR": "A ward against the unknown.",
+    "DESCRIPTIONS": [
+      "You will always obtain this as a reward after failing to snipe an act 1 elite. Upon pickup, become #yDisappointed and die to the next elite. "
+    ]
+  },
+  "Kunai": {
+    "NAME": "Kunai",
+    "FLAVOR": "A blade favored by assassins for its lethality at range.",
+    "DESCRIPTIONS": [
+      "Upon pickup, make up the resolution to upgrade all your cloak and daggers in the future. (Actually you are going to get more dexterity as watcher). ( #b",
+      " attacks, #b",
+      " strength )"
+    ]
+  },
+  "Lantern": {
+    "NAME": "Lantern",
+    "FLAVOR": "An eerie lantern which illuminates only for the wielder.",
+    "DESCRIPTIONS": [
+      "Start each combat with an additional ",
+      "[E] ",
+      ""
+    ]
+  },
+  "Lee's Waffle": {
+    "NAME": "Never Punished",
+    "FLAVOR": "\"Tastiest treat you will find in all the Spire! Baked today just for you.\"",
+    "DESCRIPTIONS": [
+      "Never rested in my LIFE ( #b",
+      " Max )"
+    ]
+  },
+  "Letter Opener": {
+    "NAME": "Letter Opener",
+    "FLAVOR": "Unnaturally sharp.",
+    "DESCRIPTIONS": [
+      "Every time you play #b3 #ySkills in a single turn, deal #b",
+      " damage to ALL enemies."
+    ]
+  },
+  "Living Blade": {
+    "NAME": "Living Blade",
+    "FLAVOR": "DEPRECATED",
+    "DESCRIPTIONS": [
+      "You can get any number of any card."
+    ]
+  },
+  "Lizard Tail": {
+    "NAME": "Lizard Tail",
+    "FLAVOR": "A fake tail to trick enemies during combat.",
+    "DESCRIPTIONS": [
+      "When you would die to a multi-attack, heal to #b50% of your Max HP and die to the next multi-attack."
+    ]
+  },
+  "Magic Flower": {
+    "NAME": "Magic Flower",
+    "FLAVOR": "A flower long thought extinct, somehow preserved in perfect condition.",
+    "DESCRIPTIONS": [
+      "Healing is #b50% more effective during combat."
+    ]
+  },
+  "Mango": {
+    "NAME": "Mango",
+    "FLAVOR": "The most coveted forgotten fruit. Impeccably preserved with no signs of Spireblight.",
+    "DESCRIPTIONS": [
+      "Upon pickup, raise your Max HP by #b"
+    ]
+  },
+  "Mark of Pain": {
+    "NAME": "Mark of Pain",
+    "FLAVOR": "This brand was used by the northern tribes to signify warriors who had mastered pain in battle.",
+    "DESCRIPTIONS": [
+      "Gain [R] at the start of your turn. At the start of combat, shuffle #b2 #rWounds into your draw pile."
+    ]
+  },
+  "Matryoshka": {
+    "NAME": "Matryoshka",
+    "FLAVOR": "A stackable set of painted dolls. The paint depicts an unknown bird with white eyes and blue feathers.",
+    "DESCRIPTIONS": [
+      "The next #b2 non-Boss chests you open contain #b2 #yRelics.",
+      "The next non-Boss chest you open contains #b2 #yRelics.",
+      "This relic has been used up."
+    ]
+  },
+  "Meat on the Bone": {
+    "NAME": "Black Blood",
+    "FLAVOR": "The meat keeps replenishing, never seeming to fully run out.",
+    "DESCRIPTIONS": [
+      "At the middle of each combat, justify taking damage by saying \"Meat on the Bone value!\" ( #b",
+      " Heal below half every combat )"
+    ]
+  },
+  "Medical Kit": {
+    "NAME": "Medical Kit",
+    "FLAVOR": "\"Has everything you need! Anti-itch, anti-burn, anti-venom, and more!\"",
+    "DESCRIPTIONS": [
+      "#yUnplayable #yStatus cards can now be played. Whenever you play a #yStatus card, #yExhaust it."
+    ]
+  },
+  "Membership Card": {
+    "NAME": "Green Card",
+    "FLAVOR": "\"Bonus membership offer for my most valuable customers!\"",
+    "DESCRIPTIONS": [
+      "Are you sure you are spending all of your money on this Act 1?"
+    ]
+  },
+  "Mercury Hourglass": {
+    "NAME": "Mercury Hourglass",
+    "FLAVOR": "An enchanted hourglass that endlessly drips.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, deal #b",
+      " damage to ALL enemies."
+    ]
+  },
+  "Molten Egg 2": {
+    "NAME": "Molten Egg",
+    "FLAVOR": "The egg of a Phoenix. It glows red hot with a simmering lava.",
+    "DESCRIPTIONS": [
+      "Whenever you add an #yAttack into your deck, #yUpgrade it."
+    ]
+  },
+  "Mummified Hand": {
+    "NAME": "Free Powers for the Rest of the Game",
+    "FLAVOR": "Frequently twitches, especially when your pulse is high.",
+    "DESCRIPTIONS": [
+      "You only have an Enchiridion at the moment, but don't worry, that can chan- Wait, it's floor 40."
+    ]
+  },
+  "Necronomicon": {
+    "NAME": "Guide to Double Meteor Strike",
+    "FLAVOR": "Only a fool would try and harness this evil power. At night your dreams are haunted by images of the book devouring your mind.",
+    "DESCRIPTIONS": [
+      "The first Meteor Strike played each turn",
+      " is played twice. Upon pickup, obtain the only replyable #rCurse in the game.",
+      " is played twice."
+    ]
+  },
+  "NeowsBlessing": {
+    "NAME": "Neow's Lament",
+    "FLAVOR": "The blessing of lamentation bestowed by Neow.",
+    "DESCRIPTIONS": [
+      "Upon pickup, find a path to snipe an elite and find #b3 fights in #b3 #y? rooms and die to the elite. ",
+      "No free elite for you."
+    ]
+  },
+  "Nilry's Codex": {
+    "NAME": "Corruption Fuel",
+    "FLAVOR": "Crafted by the infamous game master himself. Said to expand one's mind.",
+    "DESCRIPTIONS": [
+      "At the end of your turn, you may shuffle #b1 of #b3 random cards into your draw pile."
+    ]
+  },
+  "Ninja Scroll": {
+    "NAME": "Innate Shuriken and Kunai Activation",
+    "FLAVOR": "Contains the secrets of assassination.",
+    "DESCRIPTIONS": [
+      "Are you sure you want to take this with a 9 card opening hand? ( #b",
+      " #yShivs )"
+    ]
+  },
+  "Nloth's Gift": {
+    "NAME": "N'loth's Gift",
+    "FLAVOR": "The strange gift from N'loth. Whenever you try and unwrap it, another wrapped box of the same size lies within.",
+    "DESCRIPTIONS": [
+      "Triple the chance of finding #yRare cards from combat rewards."
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "Nuclear Battery",
+    "FLAVOR": "Ooooh...",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel #b1 #yPlasma."
+    ]
+  },
+  "Nullstone Periapt": {
+    "NAME": "Nullstone Periapt",
+    "FLAVOR": "DEPRECATED.",
+    "DESCRIPTIONS": [
+      "Negate the next debuff you receive from an enemy. NL Recharges in #b10 turns."
+    ]
+  },
+  "Odd Mushroom": {
+    "NAME": "Odd Mushroom",
+    "FLAVOR": "\"After consuming trichella parastius I felt larger and less... susceptible.\" - Ranwid ",
+    "DESCRIPTIONS": [
+      "When #yVulnerable, take #b25% more attack damage rather than #b50%."
+    ]
+  },
+  "Oddly Smooth Stone": {
+    "NAME": "Oddly Smooth Brain",
+    "FLAVOR": "You have never seen something so smooth and pristine. This must be the work of the Ancients.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b",
+      " #yDexterity."
+    ]
+  },
+  "Old Coin": {
+    "NAME": "Sure Hope That You Don't Have Ectoplasm",
+    "FLAVOR": "Unique coins are highly valued by merchants for their historical value and rare metallic composition.",
+    "DESCRIPTIONS": [
+      "Upon pickup, gain #b300 #yGold."
+    ]
+  },
+  "Omamori": {
+    "NAME": "999 Gold",
+    "FLAVOR": "A common charm for staving off vile spirits. This one seems to possess a spark of divine energy.",
+    "DESCRIPTIONS": [
+      "Omamori on #b2 ready for next run.",
+      "Ok, maybe not 999 gold.",
+      "This relic has been used up."
+    ]
+  },
+  "Orichalcum": {
+    "NAME": "Orichalcum",
+    "FLAVOR": "A green tinted metal of an unknown origin. Seemingly indestructible.",
+    "DESCRIPTIONS": [
+      "Whenever you end your turn playing a #yDefend, become upset that you forgot about this relic and take #b1 damage. ( #b",
+      " #yBlock if you end without block )"
+    ]
+  },
+  "Ornamental Fan": {
+    "NAME": "Ornamental Fan",
+    "FLAVOR": "The fan seems to extend and harden as blood is spilled.",
+    "DESCRIPTIONS": [
+      "Every time you play #b3 #yAttacks in a single turn, gain #b",
+      " #yBlock."
+    ]
+  },
+  "Orrery": {
+    "NAME": "Orrery",
+    "FLAVOR": "\"Once you understand the universe...\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Upon pickup, see no good cards and comfort yourself with \"at least the rare chance got up\".",
+      "Knowledge!"
+    ]
+  },
+  "Pandora's Box": {
+    "NAME": "Pandora's Box",
+    "FLAVOR": "You have a bad feeling about opening this.",
+    "DESCRIPTIONS": [
+      "Upon pickup, replace all Strikes with Glass Knives and Defends with Wraith Forms (trust me).",
+      "What have you done to your deck?"
+    ]
+  },
+  "Pantograph": {
+    "NAME": "Pantograph",
+    "FLAVOR": "\"Solid foundations are not accidental. Tools for planning are a must.\" - The Architect",
+    "DESCRIPTIONS": [
+      "Never rested in my LIFE! ( #b",
+      " HP before boss )"
+    ]
+  },
+  "Paper Crane": {
+    "NAME": "Paper Krane",
+    "FLAVOR": "An origami of a creature from a past age.",
+    "DESCRIPTIONS": [
+      "Enemies with #yWeak deal no damage rather than #b25%."
+    ]
+  },
+  "Paper Frog": {
+    "NAME": "Paper Phrog",
+    "FLAVOR": "The paper continually folds and unfolds itself into the shape of a small creature.",
+    "DESCRIPTIONS": [
+      "You are almost in #yWrath when attacking enemies with #yVulnerable."
+    ]
+  },
+  "Peace Pipe": {
+    "NAME": "Peace Pipe",
+    "FLAVOR": "Clears the mind and cleanses the soul.",
+    "DESCRIPTIONS": [
+      "You can now remove cards from your deck at Rest Sites."
+    ]
+  },
+  "Pear": {
+    "NAME": "Pear",
+    "FLAVOR": "A common fruit before the Spireblight.",
+    "DESCRIPTIONS": [
+      "Upon pickup, raise your Max HP by #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Pen Nib",
+    "FLAVOR": "Holding the nib, you can see everyone ever slain by a previous owner of the pen. A violent history.",
+    "DESCRIPTIONS": [
+      "Your #yStrikes occasionally deals double damage. Whenever you are about to play a big attack, regret that you did not setup it last combat."
+    ]
+  },
+  "Philosopher's Stone": {
+    "NAME": "Philosopher's Stone",
+    "FLAVOR": "Raw energy emanates from the stone, empowering all nearby.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. ALL enemies start combat with #b",
+	  " #yStrength."
+    ]
+  },
+  "Potion Belt": {
+    "NAME": "Potion Belt",
+    "FLAVOR": "I can hold more Potions using this belt!",
+    "DESCRIPTIONS": [
+      "Upon pickup, gain #b2 Potion slots."
+    ]
+  },
+  "Prayer Wheel": {
+    "NAME": "Prayer Wheel",
+    "FLAVOR": "The wheel continues to spin, never stopping.",
+    "DESCRIPTIONS": [
+      "Normal enemies drop an additional card reward."
+    ]
+  },
+  "Question Card": {
+    "NAME": "Question Card",
+    "FLAVOR": "\"Those with more choices minimize the downside to chaos.\" - Kublai the Great",
+    "DESCRIPTIONS": [
+      "Future card rewards have #b1 additional card to choose from."
+    ]
+  },
+  "Red Circlet": {
+    "NAME": "Red Circlet",
+    "FLAVOR": "You ran out of relics. Impressive!",
+    "DESCRIPTIONS": [
+      "Looks very pretty."
+    ]
+  },
+  "Red Mask": {
+    "NAME": "Red Mask",
+    "FLAVOR": "This very stylish looking mask belongs to the leader of the Red Mask Bandits. Technically that makes you the leader now?",
+    "DESCRIPTIONS": [
+      "At the start of each combat, apply #b",
+      " #yWeak to ALL enemies."
+    ]
+  },
+  "Red Skull": {
+    "NAME": "Red Skull",
+    "FLAVOR": "A small skull covered in ornamental paint.",
+    "DESCRIPTIONS": [
+      "When you take damage in combat, comfort yourself with \"Red Skull Value\" ( #b",
+      " #yStrength below half health )"
+    ]
+  },
+  "Regal Pillow": {
+    "NAME": "Decorative Pillow",
+    "FLAVOR": "Now you can get a proper night's rest.",
+    "DESCRIPTIONS": [
+      "Pairs well with our Coffee Dripper back there. ( #b",
+      " HP on rest )"
+    ]
+  },
+  "Ring of the Serpent": {
+    "NAME": "Half of Half of a Snecko Eye",
+	"FLAVOR": "Your ring has morphed and changed forms.",
+    "DESCRIPTIONS": [
+      "Replaces #gRing #gof #gthe #gSnake. ",
+      "At the start of your turn, draw #b1 additional card."
+    ]
+  },
+  "Ring of the Snake": {
+    "NAME": "Bag of Preparation",
+    "FLAVOR": "Made from a fossilized snake. Represents great skill as a huntress.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, draw #b",
+      " additional cards."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Free Capacitor+",
+    "FLAVOR": "More is better.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b3 additional Orb slots."
+    ]
+  },
+  "Runic Cube": {
+    "NAME": "Runic Cube",
+    "FLAVOR": "The runes are indecipherable.",
+    "DESCRIPTIONS": [
+      "Whenever combust triggers, draw a card and discard it immediately. ( draw #b",
+      " on losing HP )",
+      ""
+    ]
+  },
+  "Runic Dome": {
+    "NAME": "Free Energy",
+    "FLAVOR": "The runes are indecipherable.",
+    "DESCRIPTIONS": [
+      "Who cares about what the enemies do when they are dead?",
+      ""
+    ]
+  },
+  "Runic Pyramid": {
+    "NAME": "Pogamid",
+    "FLAVOR": "The runes are indecipherable.",
+    "DESCRIPTIONS": [
+      "Don't pretend that you aren't going to click this.",
+      ""
+    ]
+  },
+  "Self Forming Clay": {
+    "NAME": "Self-Forming Clay",
+    "FLAVOR": "\"Most curious! It appears to form itself loosely on my thoughts! Tele-clay?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Whenever you hurt yourself, prevent the enemy from hurting yourself later. ( #b",
+      " #yBlock)"
+    ]
+  },
+  "Shovel": {
+    "NAME": "Shovel",
+    "FLAVOR": "The Spire houses all number of relics from past civilizations and powerful adventurers lost to time. Time to go dig them up!",
+    "DESCRIPTIONS": [
+      "You can now #yDig for relics at Rest Sites."
+    ]
+  },
+  "Shuriken": {
+    "NAME": "Shuriken",
+    "FLAVOR": "Lightweight throwing weapons. Recommend going for the eyes.",
+    "DESCRIPTIONS": [
+        "Upon pickup, make up the resolution to upgrade all your cloak and daggers in the future. (Actually you are going to get more strength as watcher). ( #b",
+        " attacks, #b",
+        " #yStrength )"
+    ]
+  },
+  "Singing Bowl": {
+    "NAME": "Singing Bowl",
+    "FLAVOR": "This well-used artifact rings out with a beautiful melody when struck.",
+    "DESCRIPTIONS": [
+      "You can now skip cards with joy. Orrery is now 10 Max HP. "
+    ]
+  },
+  "Smiling Mask": {
+    "NAME": "Smiling Mask",
+    "FLAVOR": "Mask worn by the Merchant. He must have spares...",
+    "DESCRIPTIONS": [
+      "The Merchant's card removal service now always costs #b",
+      " #yGold."
+    ]
+  },
+  "Snake Skull": {
+    "NAME": "Snecko Skull",
+    "FLAVOR": "A snecko skull in pristine condition. Mysteriously clean and smooth, dirt and grime fall off inexplicably.",
+    "DESCRIPTIONS": [
+      "Doubles the effect of your #yEnvenom. ( #b",
+      " #yPoison )"
+    ]
+  },
+  "Snecko Eye": {
+    "NAME": "Snecko Eye",
+    "FLAVOR": "An eye of a fallen snecko. Much larger than you imagined.",
+    "DESCRIPTIONS": [
+      "Don't pretend that you aren't going to click this."
+    ]
+  },
+  "Sozu": {
+    "NAME": "Sozu",
+    "FLAVOR": "You notice that magical liquids seem to lose their properties when near this relic.",
+    "DESCRIPTIONS": [
+      "Pairs well with our White Beast Statue back there.",
+      ""
+    ]
+  },
+  "Spirit Poop": {
+    "NAME": "Spirit Poop",
+    "FLAVOR": "The charred remains of your offering to the spirits.",
+    "DESCRIPTIONS": [
+      "It's unpleasant."
+    ]
+  },
+  "Strange Spoon": {
+    "NAME": "Strange Spoon",
+    "FLAVOR": "Staring at the spoon, it appears to bend and twist around before your eyes.",
+    "DESCRIPTIONS": [
+      "You now have an infinite amount of apparitions. Whenever you #yExaust a #yStatus card with Medical Kit, discard it instead. "
+    ]
+  },
+  "Strawberry": {
+    "NAME": "Strawberry",
+    "FLAVOR": "\"Delicious! Haven't seen any of these since the blight.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Upon pickup, raise your Max HP by #b"
+    ]
+  },
+  "Sundial": {
+    "NAME": "Sundial",
+    "FLAVOR": "\"Early man's foolish obsession with time caused them to look to the sky for guidance, hoping for something permanent.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Every #b",
+      " times you shuffle your draw pile, gain [E] [E] ."
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "Symbiotic Virus",
+    "FLAVOR": "A little bit of bad can do a lot of good...",
+    "DESCRIPTIONS": [
+      "At the start of each combat, #yChannel #b1 #yDark."
+    ]
+  },
+  "Test 1": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Test 2": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 3": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 4": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 5": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "",
+      ""
+    ]
+  },
+  "Test 6": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "Test 7": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 8": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "The Courier": {
+    "NAME": "The Courier",
+    "FLAVOR": "The Merchant's personal pet!",
+    "DESCRIPTIONS": [
+      "I'M BUYING THIS WHOLE PLACE."
+    ]
+  },
+  "The Specimen": {
+    "NAME": "The Specimen",
+    "FLAVOR": "\"Fascinating! I found a mutated creature demonstrating astounding toxic properties. Storing a sample for later examination.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "It's like Corpse Explosion but... slower."
+    ]
+  },
+  "Thread and Needle": {
+    "NAME": "Thread and Needle",
+    "FLAVOR": "Wrapping the magical thread around your body, you feel harder to the touch.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b",
+      " #yPlated #yArmor."
+    ]
+  },
+  "Tingsha": {
+    "NAME": "Charon's A-DING DING DING DING DING DING",
+    "FLAVOR": "The sound this instrument generates seems to be capable of reverberating to painful levels of volume.",
+    "DESCRIPTIONS": [
+      "DING DING DING DING DING DING DING DING DING DING DING DING DING DING ( #b",
+      " damage on discard )"
+    ]
+  },
+  "Tiny Chest": {
+    "NAME": "Tiny Chest",
+    "FLAVOR": "\"A fine prototype.\" - The Architect",
+    "DESCRIPTIONS": [
+      "Instead of getting a relic now, a relic replaces your mind bloom event in act 3. ( Treasure every #b",
+      " #y? room )",
+      ""
+    ]
+  },
+  "Tiny House": {
+    "NAME": "War Criminal",
+    "FLAVOR": "\"A near perfect implementation of miniaturization. My finest work to date, but still not adequate.\" - The Architect",
+    "DESCRIPTIONS": [
+      "Upon pickup, obtain #b1 potion. NL Gain #b",
+      " #yGold. NL Raise your Max HP by #b",
+      ". NL Obtain #b1 card. NL Upgrade #b1 random card.",
+      "Tiny House!"
+    ]
+  },
+  "Toolbox": {
+    "NAME": "Portable Hand of Greed",
+    "FLAVOR": "A tool for every job.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, find some way to give you a Hand of Greed. "
+    ]
+  },
+  "Torii": {
+    "NAME": "Torii",
+    "FLAVOR": "Holding the small Torii, you feel a sense of calm and safety drift through your mind.",
+    "DESCRIPTIONS": [
+      "Imagine worrying about the heart fight. ( #b",
+      " or less to #b1 )"
+    ]
+  },
+  "Tough Bandages": {
+    "NAME": "Tough Bandages",
+    "FLAVOR": "Loss gives strength.",
+    "DESCRIPTIONS": [
+      "Whenever you discard a card during your turn, gain #b",
+      " #yBlock."
+    ]
+  },
+  "Toxic Egg 2": {
+    "NAME": "Toxic Egg",
+    "FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Whenever you add a #ySkill into your deck, #yUpgrade it."
+    ]
+  },
+  "Toy Ornithopter": {
+    "NAME": "Burning Blood",
+    "FLAVOR": "\"This little toy is the perfect companion for the lone adventurer!\"",
+    "DESCRIPTIONS": [
+      "Whenever you use a potion, heal #b",
+      " HP."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Turnip",
+    "FLAVOR": "Best with Ginger.",
+    "DESCRIPTIONS": [
+      "You can no longer become #yFrail."
+    ]
+  },
+  "Unceasing Top": {
+    "NAME": "Unceasing Disappointment",
+    "FLAVOR": "The top continues to spin effortlessly as if you were in a dream.",
+    "DESCRIPTIONS": [
+      "Whenever you end your turn with no cards in your hand out of habit, draw the most important card from your draw pile and make you regret your #ylife #ychoices. If you do not end your turn out of habit, draw an #yUnplayable card from your draw pile and make you #yDisappointed."
+    ]
+  },
+  "Vajra": {
+    "NAME": "Vajra",
+    "FLAVOR": "An ornamental relic given to warriors displaying glory in battle.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b",
+      " #yStrength."
+    ]
+  },
+  "Velvet Choker": {
+    "NAME": "Velvet Choker",
+    "FLAVOR": "\"Immense power, but too limited.\" - Kublai the Great",
+    "DESCRIPTIONS": [
+      " at the start of your turn. You cannot play more than #b",
+      " cards per turn.",
+      "Gain [E]",
+      "I can only play up to NL #r"
+    ]
+  },
+  "War Paint": {
+    "NAME": "War Paint",
+    "FLAVOR": "In the past, Ironclads would create wards using enchanted war paint before charging into battle.",
+    "DESCRIPTIONS": [
+      "Upon pickup, #yUpgrade #b",
+      " random Defends."
+    ]
+  },
+  "Whetstone": {
+    "NAME": "Whetstone",
+    "FLAVOR": "\"Flesh never beats steel.\" - Kublai the Great",
+    "DESCRIPTIONS": [
+      "Upon pickup, #yUpgrade #b",
+      " random Strikes."
+    ]
+  },
+  "White Beast Statue": {
+    "NAME": "White Beast Statue",
+    "FLAVOR": "A small white statue of a creature you have never seen before.",
+    "DESCRIPTIONS": [
+      "Potions always appear in combat rewards."
+    ]
+  },
+  "Boot": {
+    "NAME": "THE BOOT",
+    "FLAVOR": "When wound up, the boot grows larger in size.",
+    "DESCRIPTIONS": [
+      "The best relic in the game. ( #b",
+      " or less unblocked attack to #b5 )"
+    ]
+  },
+  "Mark of the Bloom": {
+    "NAME": "Mark of the Bloom",
+    "FLAVOR": "In the Beyond, thoughts and reality are one.",
+    "DESCRIPTIONS": [
+      "You can no longer heal."
+    ]
+  },
+  "Busted Crown": {
+    "NAME": "Deck is Done Busted Crown",
+    "FLAVOR": "The Champ's crown... or a pale imitation?",
+    "DESCRIPTIONS": [
+      "Sure hope that you didn't get this from a swap.",
+      ""
+    ]
+  },
+  "Incense Burner": {
+    "NAME": "Incense Burner",
+    "FLAVOR": "The smoke imbues its owner with the spirit of the burned.",
+    "DESCRIPTIONS": [
+      "Whenever the Corrupt Heart buffs, gain #b1 #yIntangible."
+    ]
+  },
+  "Empty Cage": {
+    "NAME": "Empty Cage",
+    "FLAVOR": "\"How unusual to cage that which you worship.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Two card removes and a cage, take it or leave it.",
+      "Choose 2 Cards to Remove."
+    ]
+  },
+  "Fusion Hammer": {
+    "NAME": "Fusion Hammer",
+    "FLAVOR": "Once wielded, the owner can never let go.",
+    "DESCRIPTIONS": [
+      "What? What do you mean you don't have a lesson learned?",
+      ""
+    ]
+  },
+  "Coffee Dripper": {
+    "NAME": "Coffee Dripper",
+    "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
+    "DESCRIPTIONS": [
+      "Never rested in my LIFE. Upon pickup, obtain Decorative Regal Pillow and Dream Catcher in the next few floors.",
+      ""
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Ssserpent Head",
+    "FLAVOR": "The most fulfilling of lives is that in which you can buy anything!",
+    "DESCRIPTIONS": [
+      "Whenever you enter a #y? room, gain #b",
+      " #yGold."
+    ]
+  },
+  "MutagenicStrength": {
+    "NAME": "Mutagenic Strength",
+    "FLAVOR": "\"The results seem fleeting, triggering when the subject is in danger.\" - Unknown",
+    "DESCRIPTIONS": [
+      "Start each combat with #b",
+      " #yStrength. At the end of your first turn, lose #b",
+      " #yStrength."
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "Face Of Cleric",
+    "FLAVOR": "Everyone loves Cleric.",
+    "DESCRIPTIONS": [
+      "At the end of combat, raise your Max HP by #b1."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "N'loth's Hungry Face",
+    "FLAVOR": "You feel hungry.",
+    "DESCRIPTIONS": [
+      "The next non-Boss chest you open is empty.",
+      ""
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "Gremlin Visage",
+    "FLAVOR": "Time to run.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b1 #yWeak."
+    ]
+  },
+  "CultistMask": {
+    "NAME": "CAW CAAW",
+    "FLAVOR": "Part of the Flock!",
+    "DESCRIPTIONS": [
+      "You feel more talkative.",
+      "@CAW!@ NL @CAAAW@"
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "The Abacus",
+    "FLAVOR": "\"One...Two...Three...\"",
+    "DESCRIPTIONS": [
+      "Your infinites no longer have to include #yBlock. ( #b",
+      " #yBlock on shuffle )"
+    ]
+  },
+  "DollysMirror": {
+    "NAME": "Dolly's Mirror",
+    "FLAVOR": "\"I look funny in this.\"",
+    "DESCRIPTIONS": [
+      "Upon pickup, obtain an additional copy of a Wraith Form.",
+      "Are you sure that 5 Wraith Forms isn't enough?"
+    ]
+  },
+  "ClockworkSouvenir": {
+    "NAME": "Free Fasting",
+    "FLAVOR": "\"So many intricate gears.\"",
+    "DESCRIPTIONS": [
+      "Start each combat with #b1 #yArtifact."
+    ]
+  },
+  "MealTicket": {
+    "NAME": "Meal Ticket",
+    "FLAVOR": "\"Complimentary meatballs with every visit!\"",
+    "DESCRIPTIONS": [
+      "Never rested in my LIFE. ( #b",
+      " HP on entering shops )"
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "Twisted Funnel",
+    "FLAVOR": "\"I wouldn't drink out of it.\"",
+    "DESCRIPTIONS": [
+      "At the start of each combat, apply #b4 #yPoison to ALL enemies."
+    ]
+  },
+  "HandDrill": {
+    "NAME": "Hand Drill",
+    "FLAVOR": "\"Spirals are dangerous.\"",
+    "DESCRIPTIONS": [
+      "Whenever you break an enemy's #yBlock, apply #b2 #yVulnerable."
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "Free Energy",
+    "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
+    "DESCRIPTIONS": [
+      "What? What do you mean you don't have Tools of the Trade?"
+    ]
+  },
+  "Sling": {
+    "NAME": "Vajra+",
+    "FLAVOR": "\"A handy tool for dealing with particularly tough opponents.\"",
+    "DESCRIPTIONS": [
+      "Start each Elite combat with #b",
+      " #yStrength."
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "Free Biased Pognition and Fasting",
+    "FLAVOR": "\"Made from various fungi found throughout the Spire, they will stave off any affliction.\"",
+    "DESCRIPTIONS": [
+      "Whenever you play a Fasting or a Biased Pognition, #yAttack, and #ySkill in the same turn, remove all of your debuffs."
+    ]
+  },
+  "WristBlade": {
+    "NAME": "Wrist Blade",
+    "FLAVOR": "Handy for assassinations.",
+    "DESCRIPTIONS": [
+      "Take a speculative Wrist Blade for the upcoming Grand Finale."
+    ]
+  },
+  "StoneCalendar": {
+    "NAME": "Fetal Stealer",
+    "FLAVOR": "The passage of time is imperceptible in the Spire.",
+    "DESCRIPTIONS": [
+      "When you are ready to play Hand of Greed, Lesson Learned or Feed next turn, kill all enemies. (Turn #b",
+      ", #b",
+      " damage)"
+    ]
+  },
+  "Nunchaku": {
+    "NAME": "Nunchaku",
+    "FLAVOR": "A good training tool. Improves the posture and agility of the wielder.",
+    "DESCRIPTIONS": [
+      "Whenever you end a combat with an attack, gain [E] . ( Every #b",
+      " #yAttacks )"
+    ]
+  },
+  "Brimstone": {
+    "NAME": "Brimstone",
+    "FLAVOR": "Emanates an infernal heat.",
+    "DESCRIPTIONS": [
+      "YOU get a #yDemon #yForm, YOU get a #yDemon #yForm, EVERYBODY GETS A #yDEMON #yFORM. ( #b",
+      " self #yStrength, #b",
+      " enemy #yStrength )"
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "Cute Elites",
+    "FLAVOR": "The insect seems to create a shrinking aura that targets particularly large enemies.",
+    "DESCRIPTIONS": [
+      "Ah Smol Reptomancer, how cu- OUCH OUCH OUCH. ( #b",
+      "% less HP )"
+    ]
+  },
+  "Pocketwatch": {
+    "NAME": "Pocketwatch",
+    "FLAVOR": "The hands seem stuck on the 3 o'clock position.",
+    "DESCRIPTIONS": [
+      "Upon pickup, comfort yourself for having a normality that synergises with this. "
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "Blasphemy Blocker",
+    "FLAVOR": "Seemingly indestructible, you wonder what kind of creature this belonged to.",
+    "DESCRIPTIONS": [
+      "Upon pickup, remind yourself to save the buffer in the heart fight, forget about it, then play a power card at the start of the heart and die turn 2."
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "Prismatic Shard",
+    "FLAVOR": "Looking through the shard, you are able to see entirely new perspectives.",
+    "DESCRIPTIONS": [
+      "Don't pretend that you aren't going to click this."
+    ]
+  },
+  "WarpedTongs": {
+    "NAME": "Warped Tongs",
+    "FLAVOR": "The cursed tongs emit a strong desire to return to where they were stolen from.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, #yUpgrade a random card in your hand for the rest of combat."
+    ]
+  },
+  "WingedGreaves": {
+    "NAME": "Wing Boots",
+    "FLAVOR": "Stylish.",
+    "DESCRIPTIONS": [
+      "You may ignore paths when choosing the next room to travel to #b3 times."
+    ]
+  },
+  "MawBank": {
+    "NAME": "12 Gold",
+    "FLAVOR": "Surprisingly popular, despite maw attacks being a regular occurrence.",
+    "DESCRIPTIONS": [
+      "Obtain this before a #yMerchant. Upon pickup, gain #b12 gold. ( #b",
+      " #yGold per floor until merchant )",
+      "This relic has been used up."
+    ]
+  },
+  "Melange": {
+    "NAME": "Melange",
+    "FLAVOR": "Mysterious sands from an unknown origin. Smells of cinnamon.",
+    "DESCRIPTIONS": [
+      "Whenever you shuffle your draw pile, #yScry #b",
+      "."
+    ]
+  },
+  "PureWater": {
+    "NAME": "Pure Water",
+    "FLAVOR": "Filtered through fine sand and free of impurities.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, add a #yMiracle into your hand."
+    ]
+  },
+  "HolyWater": {
+    "NAME": "Holy Water",
+    "FLAVOR": "Collected from a time before the Spire.",
+    "DESCRIPTIONS": [
+      "Replaces #pPure #pWater. At the start of each combat, add #b3 #yMiracles into your hand."
+    ]
+  },
+  "SacredBark": {
+    "NAME": "Sacred Bark",
+    "FLAVOR": "A bark rumored to originate from the World tree.",
+    "DESCRIPTIONS": [
+      "Double the effectiveness of potions."
+    ]
+  },
+  "InkBottle": {
+    "NAME": "Traitor Bottle",
+    "FLAVOR": "Once exhausted, appears to refill itself in a different color.",
+    "DESCRIPTIONS": [
+      "Whenever you are prepared for playing a #yGrand #yFinale, draw #b1 card."
+    ]
+  },
+  "Yin": {
+    "NAME": "DEPRECATED Yin",
+    "FLAVOR": "You cannot have light without dark. Or can you?",
+    "DESCRIPTIONS": [
+      "Whenever you play a #ySkill, gain #b1 temporary #yStrength."
+    ]
+  },
+  "Yang": {
+    "NAME": "Duality",
+    "FLAVOR": "\"And the sun was extinguished forever, as if curtains fell before it.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Whenever you play an #yAttack, gain #b1 temporary #yDexterity."
+    ]
+  },
+  "Akabeko": {
+    "NAME": "Wreath of Flames",
+    "FLAVOR": "\"Muuu~\"",
+    "DESCRIPTIONS": [
+      "I told you, Wreath is a good card. You have #b",
+      " strength if you don't play attacks."
+    ]
+  },
+  "VioletLotus": {
+    "NAME": "Where's my Infinite?",
+    "FLAVOR": "The old texts describe that the surface of \"mana pools\" were littered with these flowers.",
+    "DESCRIPTIONS": [
+      "Whenever you exit #yCalm, gain an additional [E] ."
+    ]
+  },
+  "TeardropLocket": {
+    "NAME": "Teardrop Locket",
+    "FLAVOR": "Its owner blind, its contents unseen.",
+    "DESCRIPTIONS": [
+      "Start each combat in #yCalm."
+    ]
+  },
+  "CeramicFish": {
+    "NAME": "Ceramic Fish",
+    "FLAVOR": "Meticulously painted, these fish were revered to bring great fortune.",
+    "DESCRIPTIONS": [
+      "Whenever you are to add a curse to your deck, contemplate about getting #b",
+      " #yGold and remind yourself that you have Ectoplasm."
+    ]
+  },
+  "SlaversCollar": {
+    "NAME": "Slaver's Collar",
+    "FLAVOR": "Rusty miserable chains.",
+    "DESCRIPTIONS": [
+      "During Boss and Elite combats, gain [E] at the start of your turn."
+    ]
+  },
+  "StrikeDummy": {
+    "NAME": "Strike Dummy",
+    "FLAVOR": "It's beat up.",
+    "DESCRIPTIONS": [
+      "You just opened a Pandora's Box by the way. Your #yMeteor #yStrike now deals #b",
+      " additional damage."
+    ]
+  },
+  "CloakClasp": {
+    "NAME": "The Cooler Orichalcum",
+    "FLAVOR": "A simple but sturdy design.",
+    "DESCRIPTIONS": [
+      "At the end of your turn, gain #b",
+      " #yBlock for each card in your hand."
+    ]
+  },
+  "TungstenRod": {
+    "NAME": "Free Brutality",
+    "FLAVOR": "It's very very heavy.",
+    "DESCRIPTIONS": [
+      "Whenever you would hurt yourself, lose #b",
+      " less HP."
+    ]
+  },
+  "HornCleat": {
+    "NAME": "Horn Cleat",
+    "FLAVOR": "Pleasant to hold in the hand. What was it for?",
+    "DESCRIPTIONS": [
+      "At the start of your 2nd turn, gain #b",
+      " #yBlock."
+    ]
+  },
+  "CaptainsWheel": {
+    "NAME": "Captain's Wheel",
+    "FLAVOR": "Wooden trinket carved with delicate precision. A name is carved into it but the language is foreign.",
+    "DESCRIPTIONS": [
+      "At the start of your 3rd turn, gain #b",
+      " #yBlock."
+    ]
+  },
+  "GoldenEye": {
+    "NAME": "Golden Eye",
+    "FLAVOR": "See into the minds of those nearby, predicting their future moves.",
+    "DESCRIPTIONS": [
+      "Upgrade your 3Sight to 5Sight. ( #yScry #b",
+      " additional )"
+    ]
+  },
+  "Damaru": {
+    "NAME": "Damaru",
+    "FLAVOR": "The sound of the small drum keeps your mind awake, revealing a path forward.",
+    "DESCRIPTIONS": [
+      "Upon pickup, remind yourself that you gain #yIQ every turn and then forget about it. At turn 10, enter #yDivinity with no attacks in your hand. ( #b",
+      " #yIQ per turn )"
+    ]
+  }
+}
