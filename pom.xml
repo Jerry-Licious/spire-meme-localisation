@@ -6,7 +6,7 @@
     <!-- Change These to match your mod -->
     <groupId>memelocalisation</groupId>
     <artifactId>MemeLocalisation</artifactId>
-    <version>0.1</version>
+    <version>0.2</version>
     <packaging>jar</packaging>
     <name>MemeLocalisation</name>
     <description>Slay the Spire mod</description>
