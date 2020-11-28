@@ -169,12 +169,12 @@
   },
   "Bouncing Flask": {
     "NAME": "Bouncing Flask",
-    "DESCRIPTION": "Apply 3 Poison to a random enemy !M! times."
+    "DESCRIPTION": "Apply 3 Poison to the enemy that is already dead !M! times."
   },
   "Brutality": {
     "NAME": "Machine Learning",
-    "DESCRIPTION": "At the start of your turn, lose 1 HP and draw 1 card.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, lose 1 HP and draw 1 card."
+    "DESCRIPTION": "*Machine *Learning but you lose 1 HP every turn.",
+    "UPGRADE_DESCRIPTION": "*Machine *Learning+ but you lose 1 HP every turn."
   },
   "Buffer": {
     "NAME": "Buffer",
@@ -310,8 +310,8 @@
     "DESCRIPTION": "Apply !M! Poison and 2 Weak to ALL enemies. NL Exhaust."
   },
   "Dagger Spray": {
-    "NAME": "Dagger Spray",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies twice."
+    "NAME": "Common AOE Attack",
+    "DESCRIPTION": "If you don't take this you will die to slimes. NL ( !D! damage )"
   },
   "Dagger Throw": {
     "NAME": "Dagger Throw",
@@ -469,7 +469,7 @@
     "DESCRIPTION": "Where's my snecko skull?"
   },
   "Escape Plan": {
-    "NAME": "Escape Plan",
+    "NAME": "Finesse But Doesn't Work",
     "DESCRIPTION": "Draw a status card. NL ( !B! Block )"
   },
   "Eviscerate": {
@@ -731,7 +731,7 @@
   },
   "Study": {
     "NAME": "Machine Learning",
-    "DESCRIPTION": "At the end of your turn, shuffle an *Insight into your draw pile."
+    "DESCRIPTION": "*Machine *Learning but more *Insightful."
   },
   "Madness": {
     "NAME": "Madness",
@@ -1136,11 +1136,11 @@
     "DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
   },
   "Tactician": {
-    "NAME": "Tactician",
+    "NAME": "Seeing Red",
     "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G].",
     "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G] [G].",
     "EXTENDED_DESCRIPTION": [
-      "I can't play this card."
+      "No, this is not a real Seeing Red."
     ]
   },
   "Tempest": {
@@ -1174,7 +1174,7 @@
   },
   "Tools of the Trade": {
     "NAME": "Machine Learning",
-    "DESCRIPTION": "At the start of your turn, draw 1 card and discard 1 card."
+    "DESCRIPTION": "*Machine *Learning but you discard 1 card every turn."
   },
   "Transmutation": {
     "NAME": "Transmutation",
@@ -1233,7 +1233,7 @@
     "UPGRADE_DESCRIPTION": "Draw !M! Status or Curse cards and put one back in *Disappointment. NL Exhaust."
   },
   "Well Laid Plans": {
-    "NAME": "Well-Laid Plans",
+    "NAME": "Build Your Pyramid",
     "DESCRIPTION": "At the end of your turn, Retain up to !M! card.",
     "UPGRADE_DESCRIPTION": "At the end of your turn, Retain up to !M! cards."
   },
@@ -1352,7 +1352,7 @@
     "UPGRADE_DESCRIPTION": "Wrath: Enter Calm. NL Calm: Enter Wrath."
   },
   "FlurryOfBlows": {
-    "NAME": "Flurry of Blows",
+    "NAME": "Replayable Slice",
     "DESCRIPTION": "Deal !D! damage. NL Whenever you change Stances, return this from the discard pile to your hand."
   },
   "PalmThatRestrains": {
@@ -1773,7 +1773,7 @@
     "DESCRIPTION": "Scry !M!. NL Gain !B! Block. NL Deal !D! damage."
   },
   "Weave": {
-    "NAME": "Weave",
+    "NAME": "Replayable Slice",
     "DESCRIPTION": "Deal !D! damage. NL Whenever you Scry, return this from the discard pile to your Hand."
   },
   "Adaptation": {
