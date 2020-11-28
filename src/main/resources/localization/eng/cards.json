@@ -725,7 +725,7 @@
     "UPGRADE_DESCRIPTION": "At the start of your turn, disable your *Auto-Shields. NL ( !M! times )"
   },
   "Machine Learning": {
-    "NAME": "Machine Learning",
+    "NAME": "Brutality with Tungsten",
     "DESCRIPTION": "At the start of your turn, draw !M! additional Status card.",
     "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, draw !M! additional Status cards."
   },
@@ -735,7 +735,7 @@
   },
   "Madness": {
     "NAME": "Madness",
-    "DESCRIPTION": "Reduce the cost of a Hologram in your hand to 0 this combat. NL Exhaust."
+    "DESCRIPTION": "This will hit your *Hologram or *All *For *One trust me. NL Exhaust."
   },
   "Magnetism": {
     "NAME": "Magnetism",
@@ -752,7 +752,7 @@
   },
   "Masterful Stab": {
     "NAME": "Masterful Stab",
-    "DESCRIPTION": "Costs 1 additional [G] NL for each time you lose HP this combat. NL Deal !D! damage.",
+    "DESCRIPTION": "This costs [G] [G] [G] [G] [G] [G] [G] [G] [G] turn 2. NL Deal !D! damage.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Mayhem": {
@@ -818,7 +818,7 @@
   },
   "Noxious Fumes": {
     "NAME": "Noxious Fumes",
-    "DESCRIPTION": "At the start of your turn, apply !M! Poison to ALL enemies."
+    "DESCRIPTION": "One card scaling damage carry. NL ( !M! Poison per turn )"
   },
   "Offering": {
     "NAME": "Offering",
@@ -1372,7 +1372,7 @@
     "DESCRIPTION": "Enter Calm or Wrath. NL Exhaust."
   },
   "Consecrate": {
-    "NAME": "AOE Slice",
+    "NAME": "AOE Slice-",
     "DESCRIPTION": "Deal !D! damage to ALL enemies."
   },
   "Flicker": {
@@ -1554,9 +1554,9 @@
     "UPGRADE_DESCRIPTION": "Retain. NL Deal !D! damage. NL Draw !M! cards. NL Exhaust."
   },
   "Insight": {
-    "NAME": "Insight",
-    "DESCRIPTION": "Retain. NL Draw !M! cards. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Retain. NL Draw !M! cards. NL Exhaust."
+    "NAME": "Pot of Greed",
+    "DESCRIPTION": "*Banned. NL What does this card do again? NL ( !M! ).",
+    "UPGRADE_DESCRIPTION": "*Banned. NL What does this card do again? NL ( !M! )."
   },
   "DeceiveReality": {
     "NAME": "Deceive Reality",
