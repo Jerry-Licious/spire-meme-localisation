@@ -249,7 +249,7 @@
   },
   "Cleave": {
     "NAME": "Whirlwind at Home",
-    "DESCRIPTION": "No whirlwind? Fine. NL ( !D! damage )."
+    "DESCRIPTION": "No whirlwind? Fine. NL ( !D! damage )"
   },
   "Cloak And Dagger": {
     "NAME": "Cloak and Dagger",
@@ -1555,8 +1555,8 @@
   },
   "Insight": {
     "NAME": "Pot of Greed",
-    "DESCRIPTION": "*Banned. NL What does this card do again? NL ( !M! ).",
-    "UPGRADE_DESCRIPTION": "*Banned. NL What does this card do again? NL ( !M! )."
+    "DESCRIPTION": "*Banned. NL What does this card do again? NL ( !M! )",
+    "UPGRADE_DESCRIPTION": "*Banned. NL What does this card do again? NL ( !M! )"
   },
   "DeceiveReality": {
     "NAME": "Deceive Reality",
