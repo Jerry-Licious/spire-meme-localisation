@@ -808,7 +808,7 @@
     "NAME": "Normality",
     "DESCRIPTION": "Unplayable. NL While in hand, remind you to setup *Pocket *Watch.",
     "EXTENDED_DESCRIPTION": [
-      "I can only play up to NL #r3 cards this turn.",
+      "Please setup your Pocket Watch for next turn.",
       "Unplayable. NL You cannot play more than ",
       " cards per turn.",
       " cards per turn. NL You have played ",
@@ -932,11 +932,11 @@
     "DESCRIPTION": "Evoke your next Orb. NL Channel the Orb that was just Evoked."
   },
   "Reflex": {
-    "NAME": "Reflex",
-    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, draw !M! cards.",
+    "NAME": "Pot of Greed",
+    "DESCRIPTION": "*Banned. NL What does this card do again when discarded? NL ( !M! )",
+    "UPGRADE_DESCRIPTION": "*Banned. NL What does this card do again when discarded? NL ( !M! )",
     "EXTENDED_DESCRIPTION": [
-      "I can't play this card."
+      "This is not a real Pot of Greed."
     ]
   },
   "Regret": {
