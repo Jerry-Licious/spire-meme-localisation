@@ -39,7 +39,7 @@
     ]
   },
   "Bag of Preparation": {
-    "NAME": "Ring of the Snake.",
+    "NAME": "Ring of the Snake",
     "FLAVOR": "Oversized adventurer's pack. Has many pockets and straps.",
     "DESCRIPTIONS": [
       "At the start of each combat, draw #b",
@@ -417,9 +417,9 @@
     "NAME": "Kunai",
     "FLAVOR": "A blade favored by assassins for its lethality at range.",
     "DESCRIPTIONS": [
-      "Upon pickup, make up the resolution to upgrade all your cloak and daggers in the future. (Actually you are going to get more dexterity as watcher). ( #b",
+      "Upon pickup, make up the resolution to upgrade all your cloak and daggers in the future. (Actually you are going to get more dexterity as watcher) ( #b",
       " attacks, #b",
-      " strength )"
+      " dexterity )"
     ]
   },
   "Lantern": {
@@ -821,7 +821,7 @@
     "NAME": "Shuriken",
     "FLAVOR": "Lightweight throwing weapons. Recommend going for the eyes.",
     "DESCRIPTIONS": [
-        "Upon pickup, make up the resolution to upgrade all your cloak and daggers in the future. (Actually you are going to get more strength as watcher). ( #b",
+        "Upon pickup, make up the resolution to upgrade all your cloak and daggers in the future. (Actually you are going to get more strength as watcher) ( #b",
         " attacks, #b",
         " #yStrength )"
     ]
