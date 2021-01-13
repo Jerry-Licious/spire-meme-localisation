@@ -120,7 +120,7 @@
     "DESCRIPTION": "Deal !D! damage. NL Heal !M! HP."
   },
   "Blade Dance": {
-    "NAME": "Blade Dance",
+    "NAME": "Wild Strike",
     "DESCRIPTION": "Add !M! *Shivs into your hand."
   },
   "Blaster": {
@@ -196,7 +196,7 @@
   },
   "Burst": {
     "NAME": "Burst",
-    "DESCRIPTION": "Your next Catalyst nonuples the enemy's poison instead.",
+    "DESCRIPTION": "Your next *Catalyst nonuples the enemy's poison instead.",
     "UPGRADE_DESCRIPTION": "If you have a bouncing flask and Catalyst, apply 216 Poison."
   },
   "Calculated Gamble": {
@@ -244,7 +244,7 @@
     "NAME": "Injury",
     "DESCRIPTION": "You have Ascender's Bane by the way. NL ( !D! damage )",
     "EXTENDED_DESCRIPTION": [
-      "I have non-Attack cards in my hand."
+      "Didn't I tell you that this is F tier?"
     ]
   },
   "Cleave": {
@@ -635,7 +635,7 @@
     "DESCRIPTION": "Where's my abacus? NL ( !D! damage )"
   },
   "Hello World": {
-    "NAME": "Hello World",
+    "NAME": "Hello Garbage",
     "DESCRIPTION": "At the start of your turn, add a random *Stack into your hand.",
     "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a random *Stack into your hand."
   },
@@ -707,8 +707,8 @@
     "DESCRIPTION": "Gain !B! Block."
   },
   "Leg Sweep": {
-    "NAME": "Leg Sweep",
-    "DESCRIPTION": "Apply !M! Weak. NL Gain !B! Block."
+    "NAME": "Silent Glacier",
+    "DESCRIPTION": "See *Green *Glacier, take *Green *Glacier. NL ( !M! Weak, !B! Block)"
   },
   "Limit Break": {
     "NAME": "Limit Break",
@@ -887,7 +887,7 @@
     "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
   },
   "Purity": {
-    "NAME": "Purity",
+    "NAME": "Fiend Fire",
     "DESCRIPTION": "Exhaust up to !M! cards in your hand. NL Exhaust."
   },
   "Quick Slash": {
@@ -954,8 +954,8 @@
   },
   "Riddle With Holes": {
     "NAME": "Heavy Dagger",
-    "DESCRIPTION": "Deal 15 damage. NL Strength affects this card 5 times.",
-    "UPGRADE_DESCRIPTION": "Deal 20 damage. NL Strength affects this card 5 times."
+    "DESCRIPTION": "Deal 15 damage. NL Strength affects this card 5 times. NL ( !D! x 5 )",
+    "UPGRADE_DESCRIPTION": "Deal 20 damage. NL Strength affects this card 5 times. NL  ( !D! x 5 )"
   },
   "Rip and Tear": {
     "NAME": "Rip and Tear",
@@ -986,7 +986,7 @@
     "DESCRIPTION": "Put a Skill from your draw pile into your hand. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "Put a Skill from your draw pile into your hand.",
     "EXTENDED_DESCRIPTION": [
-      "There are no Skills NL in my draw pile."
+      "Haha bottom deck, got you."
     ]
   },
   "Secret Weapon": {
@@ -994,7 +994,7 @@
     "DESCRIPTION": "Put an Attack from your draw pile into your hand. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "Put an Attack from your draw pile into your hand.",
     "EXTENDED_DESCRIPTION": [
-      "There are no Attacks NL in my draw pile."
+      "Haha bottom deck, got you."
     ]
   },
   "Seeing Red": {
@@ -1016,8 +1016,8 @@
     "UPGRADE_DESCRIPTION": "Gain !B! Block. NL If this card is Exhausted, NL gain [R] [R] [R]."
   },
   "Setup": {
-    "NAME": "Setup",
-    "DESCRIPTION": "Put a card from your hand on top of your draw pile. NL It costs 0 until played."
+    "NAME": "Warcry-",
+    "DESCRIPTION": "Lose 3 card draws. Put a *Shiv from your hand on top of your draw pile so you don't take 4 against *Guardian. "
   },
   "Sever Soul": {
     "NAME": "Sever Soul",
@@ -1386,7 +1386,7 @@
   },
   "Ragnarok": {
     "NAME": "Heavy Smite",
-    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times. NL Strength affects this card !M! times."
+    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times. NL Strength affects this card !M! times. NL ( !D! x !M! )"
   },
   "FlameMastery": {
     "NAME": "DEPRECATED Flame Mastery",
@@ -1444,7 +1444,7 @@
     "NAME": "Judgment",
     "DESCRIPTION": "If the enemy has !M! or less HP, set their NL HP to 0.",
     "EXTENDED_DESCRIPTION": [
-      "JUDGED"
+      "Told you Judgment is a good card and you don't listen. "
     ]
   },
   "Pray": {

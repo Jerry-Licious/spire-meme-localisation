@@ -18,7 +18,7 @@
     "NAME": "Art of War",
     "FLAVOR": "This ancient manuscript contains wisdom from a past age.",
     "DESCRIPTIONS": [
-      "All warfare is based on deception. Hense, when we are able to be a boss relic, we must seem common.",
+      "All warfare is based on deception. Hence, when we are able to be a boss relic, we must seem common.",
       ""
     ]
   },
@@ -845,7 +845,7 @@
     "NAME": "Snecko Skull",
     "FLAVOR": "A snecko skull in pristine condition. Mysteriously clean and smooth, dirt and grime fall off inexplicably.",
     "DESCRIPTIONS": [
-      "Doubles the effect of your #yEnvenom. ( #b",
+      "Doubles the effect of your #yEnvenom. Your burst $yCatalyst math is now twice as obnoxious.  ( #b",
       " #yPoison )"
     ]
   },
@@ -985,7 +985,7 @@
     ]
   },
   "Tingsha": {
-    "NAME": "Charon's A-DING DING DING DING DING DING",
+    "NAME": "DING DING DING DING DING DING",
     "FLAVOR": "The sound this instrument generates seems to be capable of reverberating to painful levels of volume.",
     "DESCRIPTIONS": [
       "DING DING DING DING DING DING DING DING DING DING DING DING DING DING ( #b",
@@ -993,10 +993,10 @@
     ]
   },
   "Tiny Chest": {
-    "NAME": "Tiny Chest",
+    "NAME": "War Criminal Junior",
     "FLAVOR": "\"A fine prototype.\" - The Architect",
     "DESCRIPTIONS": [
-      "Instead of getting a relic now, a relic replaces your mind bloom event in act 3. ( Treasure every #b",
+      "Instead of getting a relic now, a relic replaces your mind bloom event in act 3 when you have cursed key. ( Treasure every #b",
       " #y? room )",
       ""
     ]
@@ -1075,10 +1075,10 @@
     "NAME": "Velvet Choker",
     "FLAVOR": "\"Immense power, but too limited.\" - Kublai the Great",
     "DESCRIPTIONS": [
-      " at the start of your turn. You cannot play more than #b",
-      " cards per turn.",
+      " at the start of your turn. (You cannot play more than #b",
+      " cards per turn. )",
       "Gain [E]",
-      "I can only play up to NL #r"
+      "Did you not plan your turn properly again? NL ( #r"
     ]
   },
   "War Paint": {
@@ -1086,7 +1086,7 @@
     "FLAVOR": "In the past, Ironclads would create wards using enchanted war paint before charging into battle.",
     "DESCRIPTIONS": [
       "Upon pickup, #yUpgrade #b",
-      " random Defends."
+      " random #yDefends."
     ]
   },
   "Whetstone": {
@@ -1094,7 +1094,7 @@
     "FLAVOR": "\"Flesh never beats steel.\" - Kublai the Great",
     "DESCRIPTIONS": [
       "Upon pickup, #yUpgrade #b",
-      " random Strikes."
+      " random #yStrikes."
     ]
   },
   "White Beast Statue": {
@@ -1317,7 +1317,7 @@
     "NAME": "Pocketwatch",
     "FLAVOR": "The hands seem stuck on the 3 o'clock position.",
     "DESCRIPTIONS": [
-      "Upon pickup, comfort yourself for having a normality that synergises with this. "
+      "Upon pickup, comfort yourself for having a #yNormality that synergises with this. "
     ]
   },
   "FossilizedHelix": {
